@@ -62,8 +62,3 @@ Management receives live updates on technician performance, task completion, and
 | **Database** | SQLite (Lightweight, portable) |
 | **Version Control** | Git & GitHub |
 | **Environment** | 42Amman Hackathon Setup |
-
----
-
-## 🧩 System Architecture
-
